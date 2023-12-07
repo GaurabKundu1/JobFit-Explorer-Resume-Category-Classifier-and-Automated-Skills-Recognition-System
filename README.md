@@ -2,8 +2,6 @@
 
 ## A Project by [Gaurab Kundu](https://linkedin.com/in/gaurab-kundu)
 
-https://jobfit-explorer.streamlit.app/
-
 ### 1. Introduction
 Recruitment processes often involve sifting through an overwhelming number of resumes, posing significant challenges for recruiters. This project aims to introduce a solution leveraging Natural Language Processing (NLP) to automate and streamline the resume screening process. By employing machine learning and text analysis techniques, the goal is to efficiently categorize resumes and identify suitable candidates for specific job roles.
 
@@ -14,8 +12,10 @@ Recruiters face daunting challenges when manually reviewing a high volume of res
 JobFit Explorer, the Resume Screening App simplifies the recruitment process by allowing recruiters to upload resumes for automated processing and categorization. The app utilizes NLP techniques, including text cleaning, TF-IDF vectorization, and machine learning classification algorithms. By processing textual data, it efficiently identifies relevant skills, experiences, and qualifications, making candidate assessment more efficient.
 
 Here is a sneak peak of the App:
-<img src="">
-[You can Access the App Here]()
+
+<img src="https://github.com/GaurabKundu1/JobFit-Explorer-Resume-Category-Classifier-and-Automated-Skills-Recognition-System/assets/86102231/043cc9d9-0328-4b96-9e58-ac2680f29332">
+
+[You can Access the App Here](https://jobfit-explorer.streamlit.app/)
 
 ### 4. Implementation Steps
 
