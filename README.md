@@ -11,7 +11,11 @@ Recruitment processes often involve sifting through an overwhelming number of re
 Recruiters face daunting challenges when manually reviewing a high volume of resumes. Identifying qualified candidates amidst this vast array of applications is time-consuming and often leads to inefficiencies. This section emphasizes the advantages of implementing a resume screening system powered by NLP. The benefits include considerable time and cost savings, enhanced efficiency in candidate evaluation, and the potential for improving the quality of selected candidates.
 
 ### 3. Understanding the Resume Screening App
-The Resume Screening App simplifies the recruitment process by allowing recruiters to upload resumes for automated processing and categorization. The app utilizes NLP techniques, including text cleaning, TF-IDF vectorization, and machine learning classification algorithms. By processing textual data, it efficiently identifies relevant skills, experiences, and qualifications, making candidate assessment more efficient.
+JobFit Explorer, the Resume Screening App simplifies the recruitment process by allowing recruiters to upload resumes for automated processing and categorization. The app utilizes NLP techniques, including text cleaning, TF-IDF vectorization, and machine learning classification algorithms. By processing textual data, it efficiently identifies relevant skills, experiences, and qualifications, making candidate assessment more efficient.
+
+Here is a sneak peak of the App:
+<img src="">
+[You can Access the App Here]()
 
 ### 4. Implementation Steps
 
